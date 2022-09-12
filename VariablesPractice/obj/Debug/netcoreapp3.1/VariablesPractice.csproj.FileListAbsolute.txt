@@ -1,0 +1,14 @@
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.exe
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.deps.json
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.runtimeconfig.json
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.runtimeconfig.dev.json
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.dll
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\bin\Debug\netcoreapp3.1\VariablesPractice.pdb
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.csproj.AssemblyReference.cache
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.AssemblyInfoInputs.cache
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.AssemblyInfo.cs
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.csproj.CoreCompileInputs.cache
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.dll
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.pdb
+C:\Users\cmrea\repos\VariablesPractice\VariablesPractice\VariablesPractice\obj\Debug\netcoreapp3.1\VariablesPractice.genruntimeconfig.cache
